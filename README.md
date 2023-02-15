@@ -8,6 +8,8 @@ It features a unique feature that lets you import Vortex logs, though being stil
 
 The goal is to make moderating servers easier while featuring modern Discord features like slash commands, buttons and selection lists. Due to it's slash command feature it's easier than ever to use the commands, while having the versitility to moderate forum posts or threads like never before. <br />
 
+***
+
 # [1.👋 Getting Started With Forseti](https://github.com/leThrax/Forseti-Public/wiki/1.%F0%9F%91%8B-Getting-started-with-Forseti)
 
 # [2. Setup And Basics](https://github.com/leThrax/Forseti-Public/wiki/2.-Setup-and-basics)
